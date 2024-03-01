@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ice1</string>
+    <string name="SplashScreen_logo">Logo</string>
+    <string name="hello_world">Привет, мир</string>
+</resources>
